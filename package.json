@@ -1,0 +1,39 @@
+{
+  "name": "routeguard",
+  "version": "1.0.0",
+  "description": "a lightweight middleware package that dynamically validates API routes based on a JSON schema or rules defined at runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0nser/routeguard.git"
+  },
+  "keywords": [
+    "routes",
+    "routeguard",
+    "JSON",
+    "schema",
+    "header validation",
+    "parameter validator",
+    "strict validation",
+    "request validation",
+    "backend utility",
+    "API route validation",
+    "query validation"
+  ],
+  "author": "Vaibhav Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v0nser/routeguard/issues"
+  },
+  "homepage": "https://github.com/v0nser/routeguard#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
