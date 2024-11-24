@@ -160,8 +160,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or feedback, please contact:
-
-<<<<<<< HEAD
 - Name: Vaibhav Singh
 - Email: raghuvanshivaibhav01@gmail.com
 - GitHub: [v0nser](https://github.com/v0nser)
