@@ -1,6 +1,6 @@
 {
   "name": "routeguard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a lightweight middleware package that dynamically validates API routes based on a JSON schema or rules defined at runtime.",
   "main": "index.js",
   "scripts": {
