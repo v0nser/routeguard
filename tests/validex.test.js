@@ -32,7 +32,7 @@ describe('RouteValidator', () => {
         username: 'john_doe',
         email: 'john@example.com',
       },
-      headers: {}, // Missing api-key
+      headers: {}, 
     };
 
     const result = validator.validate('/api/users', request);
